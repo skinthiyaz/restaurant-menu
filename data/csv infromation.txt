@@ -1,0 +1,6 @@
+csv is konwn for comma suparated values
+it coverts values in table by saprating them in the real time 
+example
+name,designation,cast,location
+shaik inthiyaz,jobseeker,muslim,hydrabad
+this is how we write csv files in the database
